@@ -1,0 +1,3 @@
+AI_BUS_GITHUB_VERIFY_20260908
+这是造梦师桥接系统的GitHub测试文件。
+如果你能读到这段话，说明ChatGPT→GitHub读通路已打通。
